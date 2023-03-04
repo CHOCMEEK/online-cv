@@ -60,7 +60,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: B.S. in Computer Science
         university: University of London
         time: 2011 - 2012
         details: |
@@ -85,21 +85,23 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: IT Infrastructure Engineer II
+        time: 2021 - Present
+        company: GES - Global Experience Specialist
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Proactively identifies weaknesses and vulnerabilities in the network and cloud infrastructure using security logs, network analysis, and observations. Deploy Infrastructure that is secure and fits the buiness needs.
+          Communicates network security vulnerabilities and solutions to the network security supervisor pertaining to application security, communications, and performance issues, and modifies network security implementations as required to ensure proper operation of applications.
+          Managing endpoint security service including operations on antivirus, encryption, personal firewall, applications, and change control products.
+          Assesses applications and the associated data flow for risk to sensitive data, systems, or infrastructure.
+          Supporting the transition process from country/regional based services to the global security operations model.
+          Assesses applications and the associated data flow for risk to sensitive data, systems, or infrastructure.
+          Monitoring Security Logs: Responsible for monitoring and comparing log files across many security and application tools, to detect intrusions or unusual behavior that would require further investigation.
+          Assist in information security audits, ensuring the technical compliance with related regulatory requirements. (e.g. SOX, GDPR, PCI)
+          Validates and monitors process compliance
+          Performs related duties and responsibilities as required.
+            - Deploy Secure Solutions in Azure and on-premise
+            - Create and deploy infrastructure using IAC (Infrastructure as code)
+            - 
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
@@ -168,28 +170,6 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -203,7 +183,7 @@ skills:
       - name: Azure AD
         level: 98%
 
-      - name: 
+      - name: VMware
         level: 95%
 
       - name: Azure
